@@ -95,15 +95,15 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-<!--CR:
+
 # Friends
 friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
-    },{
+    },{<!--CR:
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/u/e71990ada2fd"-->
     },{
         title: "Apple",
         href: "https://apple.com"
@@ -112,4 +112,4 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
--->
+
