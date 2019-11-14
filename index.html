@@ -35,7 +35,7 @@ description: "种自己的菜"
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <!-- CR:  <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>-->
     </li>
     {% endif %}
 </ul>
