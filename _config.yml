@@ -101,9 +101,9 @@ friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
-    },{<!--CR
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"-->
+    },{
+        title: "简书1·BY",
+        href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
         title: "Apple",
         href: "https://apple.com"
