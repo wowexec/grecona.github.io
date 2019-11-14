@@ -95,7 +95,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
+<CR:!--
 # Friends
 friends: [
     {
@@ -112,3 +112,4 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+-->
